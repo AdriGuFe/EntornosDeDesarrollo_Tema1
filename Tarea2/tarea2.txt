@@ -19,6 +19,7 @@ INICIO
 8. Esperar a que se haga el huevo
   MIENTRAS (huevo no esté hecho)
     observar el huevo
+  FIN MIENTRAS
 9. Retirar sartén de vitro
 10. Apagar fuego
 11. Coger plato 
