@@ -1,4 +1,4 @@
 # Tarea 2
-[tarea2.txt](EntornosDeDesarrollo_Tema1/Tarea2/EntornosDeDesarrollo_Tema1/Tarea2/tarea2.txt/)
+[tarea2.txt](Tarea2/tarea2.txt)
 
-[Volver](README.md)
+[Volver](EntornosDeDesarrollo_Tema1/README.md)
